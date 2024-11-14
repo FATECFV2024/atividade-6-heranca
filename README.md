@@ -1,4 +1,4 @@
-# Atividade 7
+# Atividade 6
 
 ## Sumário 
 - [Escopo da Atividade](#escopo-da-atividade-%EF%B8%8F) 
