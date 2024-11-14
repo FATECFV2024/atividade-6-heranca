@@ -36,5 +36,5 @@ Implementar uma classe que seja capaz de simular todos os cenários abaixo:
 - Utilize comentários para elucidar o cenário elaborado;
 
 ## Feedback 📨
--  Sua atividade receberá uma pontuação de 0 a 10, que compõe os 40% da Nota da M2;
+-  Sua atividade receberá uma pontuação de 0 a 10, que compõe os 30% da Nota da M2;
 -  A nota será atribuída no Microsoft Teams
