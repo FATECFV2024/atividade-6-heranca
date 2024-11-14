@@ -27,7 +27,6 @@ Implementar uma classe que seja capaz de simular todos os cenários abaixo:
 ## No Microsoft Teams  👥
 
 - Não há necessidade fazer o upload do projeto 
-- Caso tenha realizado em dupla, mencione o NOME e RGM da dupla lá no Teams em um arquivo .txt
 
 ## Regras 📄
 
